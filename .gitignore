@@ -1,3 +1,4 @@
 *.png
-!data/*
-final.data
+data/*
+!final.data
+!final.dat
