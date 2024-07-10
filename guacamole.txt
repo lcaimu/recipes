@@ -1,3 +1,7 @@
-guacamole
+Guacamole
 
-ingredient 
+Ingredients 
+- avocado
+- salt
+- lime juice
+- coriander
